@@ -1,0 +1,4 @@
+#Tue May 25 09:41:18 IST 2021
+base.0=H\:\\ocr\\gameapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
